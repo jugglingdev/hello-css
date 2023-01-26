@@ -50,7 +50,6 @@ Some code snippets I learned include:
 
 ```css
 /* This is the syntax for CSS */
-
 selector {
   property: value;
 }
@@ -58,7 +57,6 @@ selector {
 
 ```css
 /* List styles include disc, cirlce, and square */
-
 ul {
   list-style-type: cirlce;
 }
@@ -74,7 +72,6 @@ ol {
 
 ```css
 /* This is how to get rid of hyperlinks! */
-
 a {
   text-decoration: none;
 }
